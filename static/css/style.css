@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 1200px;
+	height: auto;
+	overflow: hidden;
+
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 26px;
+	text-align: center;
+}
+
+.list {
+	width: 100%;
+	padding: 30px 240px;
+}
